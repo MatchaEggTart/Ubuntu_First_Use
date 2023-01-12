@@ -1,1 +1,1 @@
-sudo apt insall emacs -y
+sudo apt install emacs -y
